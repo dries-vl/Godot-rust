@@ -8,7 +8,7 @@
 
 [node name="Player" type="Player" parent="."]
 position = Vector2(176, 146)
-rotation = 56609.1
+rotation = 56946.0
 texture = ExtResource("1_gdtep")
 region_rect = Rect2(10, 10, 0, 0)
 
